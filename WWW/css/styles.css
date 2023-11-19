@@ -1,0 +1,24 @@
+p {
+    color: blue;
+    font-size: 10px;
+}
+
+#parrafo-inicial {
+    color: red;
+    font-size: 16px;
+}
+
+.primer-elemento {
+    border: 5px solid;
+}
+
+img[src] {
+    border: 1px solid;
+    width: 300px;
+    margin-bottom: 200px;
+    padding-bottom: 80px;
+}
+
+#titulo {
+    text-align: center;
+}
