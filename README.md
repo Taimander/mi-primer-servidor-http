@@ -4,4 +4,4 @@ Este es un ejemplo de un servidor HTTP escrito para NodeJS para la clase de Desa
 
 ## Autores
 
-Samuel Sánchez Tarango (Taimander)[https://github.com/Taimander]
+Samuel Sánchez Tarango [Taimander](https://github.com/Taimander)
